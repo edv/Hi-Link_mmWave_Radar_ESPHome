@@ -22,17 +22,6 @@ Note: Don't use 5V on LD017, LD012, LD2420.
 - CEM5825F = LD1125H
 - CEM5855H = LD1115H
 
-## No plan to support
-- LD2410: ESPHome official support already available
-- LD2420: ESPHome official support already available
-- LD7901B: 79GHz water level radar
-- LD303: 24GHz legacy model
-- LD116: 24GHz legacy model
-- LD101: 10GHz legacy model
-- LD102: 10GHz legacy model
-- LD105: 5.8GHz legacy model
-- LD010: 5.8GHz legacy model
-- LD015: 5.8GHz legacy model
 
 ## References
 - ESPHome:
